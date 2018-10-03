@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Zack carters Career Page</title>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400, 600' rel='stylesheet' type='text/css'>
+    <link href='style.css' rel='stylesheet' type='text/css'/>
+  </head>
+
+  <body>
+
+    <header>
+        <nav>
+
+        </nav>
+    </header>
+    <div class="main">
+
+    <main>
+      <div class="jumbotron">
+        <div class="container">
+          <h1>Zackery's Career Page</h1>
+        </div>
+      </div>
+    </main>
+    <section class="supporting">
+      <div class="container">
+        <div class="col">
+          <img src="">
+          <h3> Career Goal </h3>
+          <p> I want to become a I.T
+          <strong></strong></p>
+          <a href="https://study.com/articles/How_to_Become_an_Information_Technology_IT_Specialist.html">Learn more</a><br>
+        </div>
+
+        <div class="col">
+          <img src="">
+          <h2>Skills Needed</h2>
+          <p>It all depends on what type of I.T you want to become you can either fix computers, fix network or set up network,<br> code games or software or if you want to be risky code viruses or work for nasa fighting against cyber crimes, then their are much more to find out about.
+          </p>
+        </div>
+
+        <div class="col">
+          <img src="">
+          <h2>Other information</h2>
+          <p>To become an I.T it takes a lot of time and training to get the basics and then to get better at each so you can use them in the real world <br>
+          but once you learn the basics it is so much fun learning the rest you wont even know where the time went and they are usefull. <br>
+          You can make tons of money depending on the position and the rank and what job some jobs are harder than others though. <br>
+           If I were to pick I would like a job where I get a good amount of money but not too stressfull.</p>
+        </div>
+
+
+    </section>
+
+    <footer>
+      <div class="container">
+<a href="C:\Users\googleyuser\Documents\Official webpage\index.html\index.html">Home Page </a>
+
+
+        <figure class="Breath of the wild picture">
+          <img class="thumbnail" src="https://www.economist.com/sites/default/files/images/2017/12/articles/main/20171223_stp501.jpg">
+        </figure>
+<a   href="C:\Users\googleyuser\Documents\Official webpage\index.html\blog.html">Blog</a>
+      </div>
+    </footer>
+  </div>
+  </body>
+</html>
