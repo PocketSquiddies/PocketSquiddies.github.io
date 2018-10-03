@@ -1,0 +1,55 @@
+<!DOCTYPE.html>
+<html>
+<header class="container">
+  <head>
+    <title>Zackery carter's Home Page</title
+    <link href='https://fonts.googleapis.com/css?family=Roboto:700,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  <div class="text-right">
+  <span class="border border-primary"><h1 class="col-sm-8"><a href=""> Zackery carter's Home Page </a></h1></span>
+   <nav class="col-sm-4">
+
+</head>
+<head>
+<title>Zackery carter</title>
+<link rel="stylesheet" href="style.css">
+<body>
+
+</head>
+</header>
+<div class="main">
+  <p class="company-description">
+<h2>  This is a website about Zackery carters interest </h2>
+  </p>
+  <div class="images">
+    <figure class="Breath of the wild picture">
+      <img class="thumbnail" src="http://static.gosunoob.com/img/1/2017/06/zelda-botw-trial-of-the-sword-tips-tricks.jpg">
+    </figure>
+    <figure class="Breath of the wild picture">
+      <img class="thumbnail" src="http://cdn.themis-media.com/media/global/images/library/deriv/1396/1396130.jpg">
+    </figure>
+    <h1> so far i have enjoyed leaning how to code websites it may still be a small amount but it is fun to make them </h1>
+    <figure class="Breath of the wild picture">
+      <img class="thumbnail" src="https://images-na.ssl-images-amazon.com/images/I/61RwInN1xCL._AC_SL1280_.jpg">
+    </figure>
+    <figure class="Breath of the wild picture">
+      <img class="thumbnail" src="https://d1ic4altzx8ueg.cloudfront.net/finder-au/wp-uploads/2017/03/breath-of-the-wild-review-1.jpg">
+    </figure>
+    <h1>This Homepage is about what i like and i really enjoy the game breath of the wild i think it is a fun and unique game.</h1>
+    <h1> i also enjoy my class advanced projects where we go around and fix computers while learning new things and ways of doing things.</h1>
+
+
+
+
+</div>
+<nav class="footer">
+  <ul>
+  <a   href="C:\Users\googleyuser\Documents\Official webpage\index.html\blog.html">Blog</a>
+    <a  href="C:\Users\googleyuser\Documents\Official webpage\Career\index.html">Career Page</a>
+    </ul>
+      <a  href="#">CONTACT ME</a>
+    </div>
+  </nav>
+  </body>
+</html>
